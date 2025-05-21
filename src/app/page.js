@@ -109,5 +109,4 @@ const moves = history.map((squares, move) => {
       <ol>{moves}</ol>
     </div>
   </div>
-  );
-}
+  )
